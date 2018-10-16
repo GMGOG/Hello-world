@@ -1,13 +1,11 @@
 #include<stdio.h>
-int main(void)
+void main()
 {
-float a,b,c;
+float a,b;
 //Addition of two numbers
 printf("Enter two numbers for addition");
 scanf("%f %f",&a,&b);
-c=a+b;
-printf("%f",c);
-return 0;
+printf("%f",a+b);
 }
 
 
