@@ -1,7 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
-printf("hi");
-
-return 0;
+printf("hi GITHUB is Lit");
 }
