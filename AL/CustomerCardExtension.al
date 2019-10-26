@@ -3,7 +3,7 @@ pageextension 50112 CustomerCardExtension extends "Customer Card"
 
     layout
     {
-        // Add changes
+        // Add changes here
     }
 
     actions
